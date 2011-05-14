@@ -9,6 +9,7 @@ source "http://rubygems.org"
   gem 'faraday', '~> 0.6.0'
   gem 'faraday_middleware', '~> 0.6.0'
   gem 'hashie', '~> 1.0.0'
+  gem 'multi_json'
 
 group :development do
   gem "shoulda", ">= 0"
