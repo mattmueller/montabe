@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "montabe"
   gem.homepage = "http://github.com/mattmueller/montabe"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Wrapper for the montabe API"
+  gem.description = "Wrapper for the montabe API.  Currently in alpha state, stuff will break."
   gem.email = "muellermr@gmail.com"
   gem.authors = ["Matt Mueller"]
   # dependencies defined in Gemfile

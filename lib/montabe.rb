@@ -5,7 +5,8 @@ directory = File.expand_path(File.dirname(__FILE__))
 
 module Montabe
 
-  require 'montabe/client'
   require 'montabe/galleries'
+  require 'montabe/client'
+
 
 end
