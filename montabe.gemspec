@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{montabe}
-  s.version = "0.1.3"
+  s.version = "0.1.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Matt Mueller"]
-  s.date = %q{2011-05-14}
+  s.date = %q{2011-05-16}
   s.description = %q{Wrapper for the montabe API.  Currently in alpha state, stuff will break.}
   s.email = %q{muellermr@gmail.com}
   s.extra_rdoc_files = [
@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
     "lib/montabe.rb",
     "lib/montabe/client.rb",
     "lib/montabe/galleries.rb",
+    "montabe.gemspec",
     "test/helper.rb",
     "test/test_montabe.rb"
   ]
